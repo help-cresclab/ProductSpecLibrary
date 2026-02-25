@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## Insights
 
-* [Insight](README.md)
+* [Insight](<README (1).md>)
   * [Feature Overview](insights/insight/feature-overview.md)
   * [System Design](insights/insight/system-design.md)
   * [Product Specifications](insights/insight/product-specifications.md)
