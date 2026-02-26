@@ -1,5 +1,5 @@
 ---
-description: Single source of truth (SSoT) for product specs, system design, and FAQs.
+description: Single source of truth (SSOT) for product specs, system design, and FAQs.
 icon: book-open-lines
 ---
 
